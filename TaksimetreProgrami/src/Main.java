@@ -15,7 +15,7 @@ public class Main {
         int startPrice = 10;
         double mesafe;
         double total;
-        int min = 20;
+
         // yolcudan gideceği yolu alıyorum ve ödemesi gereken ücreti çıkartıyorum
         System.out.print("Toplam gideceğiniz kilometreyi giriniz: ");
         mesafe = input.nextDouble();               // kullanıcıdan gideceği mesafeyi alıp koşul durumuna sokuyorum.
